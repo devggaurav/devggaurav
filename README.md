@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @devggaurav<br>- 👀 I’m interested in kotlin, KMM, java, Jetpack-Compose, Dart,JS<br>- 🌱 I’m currently learning KMM<br>- 💞️ I’m looking to collaborate on Compose Animation, KMM<br>- 📫 email me at [dev.gauravchauhan@gmail.com](mailto:dev.gauravchauhan@gmail.com)<br>- 🎬 My youtube channel [https://www.youtube.com/channel/UCXyU4Zoi3LkWeXnHu0XeGcA](https://www.youtube.com/channel/UCXyU4Zoi3LkWeXnHu0XeGcA)
+- 👋 Hi, I’m @devggaurav<br>- 👀 I’m interested in kotlin, KMM, java, Jetpack-Compose, Dart,JS<br>- 🌱 I’m currently learning KMM<br>- 💞️ I’m looking to collaborate on Compose multiplatform, compose Animation, KMM<br>- 📫 email me at [dev.gauravchauhan@gmail.com](mailto:dev.gauravchauhan@gmail.com)<br>- 🎬 My youtube channel [https://www.youtube.com/channel/UCXyU4Zoi3LkWeXnHu0XeGcA](https://www.youtube.com/channel/UCXyU4Zoi3LkWeXnHu0XeGcA)
 
 
 ## 🌐 Socials:
